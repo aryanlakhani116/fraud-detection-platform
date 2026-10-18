@@ -1,0 +1,10 @@
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+models/**/*.joblib
+models/**/*.pt
+!models/**/.gitkeep
+sample.ipynb
+src/__pycache
+
